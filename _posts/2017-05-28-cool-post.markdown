@@ -1,6 +1,0 @@
----
-title: Cool Post
-date: 2017-05-28 03:33:00 Z
----
-
-Here IT IS
