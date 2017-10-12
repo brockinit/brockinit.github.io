@@ -6,7 +6,7 @@
 .navbar-container {
   display: flex;
   justify-content: space-between;
-  background-color: #75d6c7;
+  background-color: #4488C6;
   opacity: 0.8;
   position: fixed;
   top: 0;
@@ -69,7 +69,7 @@
         color: white; } }
 
 .responsive-container {
-  background-color: #75d6c7;
+  background-color: #4488C6;
   opacity: 0.8;
   position: fixed;
   width: 100%; }
@@ -249,7 +249,7 @@
     margin: 0.3rem 0 0 0; }
   .resume-body-container a {
     text-decoration: none;
-    color: #5db2a6; }
+    color: #4488C6; }
   .resume-body-container ul {
     margin: 0 0 0.5rem 0; }
   .resume-body-container li {
