@@ -154,7 +154,7 @@
   .grid-image-block:hover .grid-hover {
     box-sizing: border-box;
     height: 300px;
-    background-color: #75d6c7;
+    background-color: #4488C6;
     opacity: 0.2; }
 
 .grid-subtext {
@@ -230,7 +230,7 @@
     font-weight: 500;
     font-size: 1rem;
     letter-spacing: 1.2px;
-    color: #68c9ba; }
+    color: #4488C6; }
   .resume-body-container h3 {
     text-transform: uppercase;
     font-weight: 300;
